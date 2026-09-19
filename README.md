@@ -2,8 +2,11 @@
 
 Collection of Python programs and mini projects.
 
-## Topics
-- Python Basics
-- Automation
-- Mini Projects
-- College Programs
+## Projects
+- hello.py
+- calculator.py
+
+## Skills Used
+- Python
+- Logic Building
+- Problem Solving
